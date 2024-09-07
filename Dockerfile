@@ -1,3 +1,3 @@
-FROM node:20.7-bullseye-slim
+FROM node:20.17.0-bullseye-slim
 
 RUN apt-get install -y imagemagick
